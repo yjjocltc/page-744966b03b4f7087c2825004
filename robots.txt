@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://c.xn--tanz-t29fn45k364cyvo.com/sitemap.xml
